@@ -13,7 +13,7 @@
 </h3>
 <p>Use command  <b>"npm i"</b></p>
 <hr>
-<h2>Functions Of Porject</h2>
+<h2>Functions Of Project</h2>
 <ol>
   <li><b>addUser</b>:: to add new user </li>
     <li><b>addBook</b> :: to add book</li>
