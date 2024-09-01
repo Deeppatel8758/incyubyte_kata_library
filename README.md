@@ -1,7 +1,7 @@
 <h2>#About Kata Library Managment System</h2>
 <p>The Library Management System is a focused platform designed to streamline core library operations. It allows librarians to add books to the collection, and users can easily borrow and return books. Additionally, it provides a straightforward way to view available books, ensuring efficient management and a user-friendly experience.</p>
 <hr>
-<h2>#Requrinmets For Project For TDD(Test Driven Development)</h2>
+<h2>#Requirements For Project For TDD(Test Driven Development)</h2>
 <p>
    1.ts-jest: 29.2.5 <br>
   2. typescript: 5.5.4<br>
