@@ -6,11 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "tsc",
- 
-    "start": "tsc src/Index.ts"
-    
-  
+    "build": "tsc" 
   },
   "keywords": [],
   "author": "",
