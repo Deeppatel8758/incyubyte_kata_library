@@ -6,7 +6,9 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "tsc" 
+    "test": "jest --outputFile=results.json --json",
+    "build": "tsc" ,
+    "generate-test-log": "tsc LogGen.ts && node LogGen.js"
   },
   "keywords": [],
   "author": "",
